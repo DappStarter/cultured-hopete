@@ -1,0 +1,9 @@
+{
+    "name": "Test",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/administrator_role": true
+    }
+}
